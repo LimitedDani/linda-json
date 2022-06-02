@@ -1,0 +1,74 @@
+{
+	"pages": [{
+			"id": "Home",
+			"name": "Home",
+			"url": "/"
+		},
+		{
+			"id": "JustIn",
+			"name": "Net Binnen",
+			"url": "/nieuws/"
+		},
+		{
+			"id": "Magazine",
+			"name": "Magazine",
+			"url": "/magazine/"
+		},
+		{
+			"id": "Videos",
+			"name": "Videos",
+			"url": "/tv/"
+		},
+		{
+			"id": "Podcasts",
+			"name": "Podcasts",
+			"url": "/podcasts/"
+		},
+		{
+			"id": "More",
+			"name": "Meer",
+			"url": "/more/"
+		}
+	],
+	"dropdown_pages": [{
+			"id": "LivingAndWorking",
+			"name": "Wonen & Klussen",
+			"url": "/wonen/"
+		},
+		{
+			"id": "Beauty",
+			"name": "Beauty",
+			"url": "/beauty/"
+		},
+		{
+			"id": "BeRightBack",
+			"name": "Even Weg",
+			"url": "/reizen/"
+		},
+		{
+			"id": "MoneyAndCareer",
+			"name": "Geld & Carriere",
+			"url": "/geld/"
+		},
+		{
+			"id": "CookAndFood",
+			"name": "Koken & Eten",
+			"url": "/eten-recept/"
+		},
+		{
+			"id": "FitAndHealth",
+			"name": "Fit & Gezond",
+			"url": "/gezondheid/"
+		},
+		{
+			"id": "Mode",
+			"name": "Mode",
+			"url": "/mode/"
+		},
+		{
+			"id": "MoviesAndSeries",
+			"name": "Films & Series",
+			"url": "/films-series/"
+		}
+	]
+}
