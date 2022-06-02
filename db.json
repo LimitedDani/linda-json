@@ -1,5 +1,5 @@
 {
-	"pages": [{
+	"pages": { "pages": [{
 			"id": "Home",
 			"name": "Home",
 			"url": "/"
@@ -29,8 +29,8 @@
 			"name": "Meer",
 			"url": "/more/"
 		}
-	],
-	"dropdown_pages": [{
+	]},
+	"dropdown_pages": { "dropdown_pages": [{
 			"id": "LivingAndWorking",
 			"name": "Wonen & Klussen",
 			"url": "/wonen/"
@@ -70,5 +70,5 @@
 			"name": "Films & Series",
 			"url": "/films-series/"
 		}
-	]
+	]}
 }
